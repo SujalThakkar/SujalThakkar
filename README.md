@@ -5,7 +5,7 @@ Computer Science Student • Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=800&color=E6E6E6&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Hackathon+Winner;Building+Projects;Open+to+Software+Engineering+Internships"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=800&color=E6E6E6&center=true&vCenter=true&width=600&lines=I+like+building+things+that+work.;Hackathon+Winner;Building+Projects;Open+to+Software+Engineering+Internships"/>
 </p>
 
 ---
