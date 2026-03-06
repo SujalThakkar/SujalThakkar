@@ -84,8 +84,23 @@ Desktop skill and certificate tracker
 • Portfolio export
 
 </td> </tr> </table>
-📊 GitHub Analytics
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=SujalThakkar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalThakkar&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=SujalThakkar&theme=tokyonight&hide_border=true"/> </p>
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=SujalThakkar&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true"/>
+</td>
+
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalThakkar&layout=compact&hide_border=true&theme=transparent"/>
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=SujalThakkar&theme=transparent&hide_border=true"/>
+</p>
 🏆 Achievements
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SujalThakkar&theme=tokyonight&no-frame=true&margin-w=15"/> </p>
 📈 Contribution Graph
