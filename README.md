@@ -89,22 +89,22 @@ Desktop skill and certificate tracker
 <table align="center">
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=SujalThakkar&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sujalthakkar&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </td>
 
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalThakkar&layout=compact&hide_border=true&theme=transparent"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalthakkar&layout=compact&hide_border=true&theme=transparent"/>
 </td>
 </tr>
 </table>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=SujalThakkar&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=sujalthakkar&theme=transparent&hide_border=true"/>
 </p>
 🏆 Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SujalThakkar&theme=tokyonight&no-frame=true&margin-w=15"/> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sujalthakkar&theme=tokyonight&no-frame=true&margin-w=15"/> </p>
 📈 Contribution Graph
-<p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SujalThakkar&theme=tokyo-night&hide_border=true"/> </p>
+<p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sujalthakkar&theme=tokyo-night&hide_border=true"/> </p>
 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SujalThakkar/SujalThakkar/output/github-contribution-grid-snake-dark.svg"/>
