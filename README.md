@@ -1,225 +1,128 @@
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!--                        SUJAL THAKKAR — README                       -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+<!-- ╔══════════════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║            SUJAL THAKKAR — GITHUB PROFILE — $100,000 EDITION              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sujal%20Thakkar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Hackathon%20Winner%20%7C%20CS%20Student&descSize=18&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<!-- ░░░░░░░░░░░░░░░░░░  CINEMATIC HERO BANNER  ░░░░░░░░░░░░░░░░░░ -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a0a,60:0d0221,100:000000&height=280&section=header&text=SUJAL%20THAKKAR&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=%E2%80%BA%E2%80%BA%20Full-Stack%20%E2%80%A2%20AI%20%E2%80%A2%20Systems%20Builder&descSize=20&descAlignY=64&descColor=7c3aed&stroke=7c3aed&strokeWidth=2&animation=fadeIn" width="100%"/>
 
 </div>
 
----
+<!-- ░░░░░░░░░░░░  ANIMATED DIVIDER — PURPLE NEON  ░░░░░░░░░░░░ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
+<br/>
+
+<!-- ░░░░░░░░░░░░  LIVE STATUS BADGES ROW  ░░░░░░░░░░░░ -->
 <div align="center">
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+things+that+matter+%F0%9F%9A%80;Full-Stack+%7C+Next.js+%7C+Java+%7C+Python;1st+Place+%E2%80%94+Periscope+Healthcare+Hackathon+%F0%9F%8F%86;Always+shipping%2C+always+learning+%E2%9A%A1)](https://git.io/typing-svg)
+![Profile Views](https://komarev.com/ghpvc/?username=SujalThakkar&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+&nbsp;
+![Status](https://img.shields.io/badge/STATUS-OPEN_TO_INTERNSHIPS-00ff88?style=for-the-badge&logo=rocket&logoColor=black)
+&nbsp;
+![Build](https://img.shields.io/badge/CURRENTLY_BUILDING-Outlier_OS-7c3aed?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 </div>
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-## 👤 &nbsp;About Me
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░  TYPING HERO  ░░░░░░░░░░░░ -->
+<div align="center">
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=SujalThakkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&width=800&height=60&lines=%E2%9A%A1+Shipping+production+apps+since+year+1;%F0%9F%8F%86+Hackathon+Champion+%E2%80%94+42+hrs%2C+1st+Place;%F0%9F%8C%8D+AI+that+speaks+7+Indian+languages;%F0%9F%94%A5+Next.js+%E2%80%A2+Flask+%E2%80%A2+Java+%E2%80%A2+Python+%E2%80%A2+C%2B%2B;%E2%9C%A6+From+Thane+to+the+world)](https://git.io/typing-svg)
 
-```yaml
-name:       Sujal Hitesh Thakkar
-role:       Full-Stack Developer & CS Student
-location:   Thane, Maharashtra 🇮🇳
-university: K. J. Somaiya School of Engineering
-degree:     B.Tech — CS & Business Systems (2028)
-cgpa:       9.27 Cumulative
+</div>
 
-currently:
-  - Building Outlier — a productivity OS in Next.js
-  - Exploring AI/ML integrations in web apps
-  - Open to internships & collaborations
+<br/>
 
-superpower: Shipping production-ready apps fast ⚡
+---
+
+<!-- ████████████████████████████████████████████████████████████████████ -->
+<!--                      ◈  IDENTITY MATRIX  ◈                          -->
+<!-- ████████████████████████████████████████████████████████████████████ -->
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp;`> whoami`
+
+<br/>
+
+<table width="100%" border="0">
+<tr>
+<td width="55%" valign="top">
+
+```javascript
+const sujal = {
+  name:       "Sujal Hitesh Thakkar",
+  age:        19,
+  location:   "Thane, Maharashtra 🇮🇳",
+  university: "K. J. Somaiya SoE",
+  degree:     "B.Tech CS + Business Systems",
+  graduation: 2028,
+  cgpa:       9.27,
+
+  role: [
+    "Full-Stack Developer",
+    "Hackathon Champion 🏆",
+    "Systems Builder",
+    "Open Source Contributor"
+  ],
+
+  currentlyBuilding: "Outlier — Productivity OS",
+  seeking:           "SWE Internships 2025",
+
+  lifePhilosophy: "Ship. Learn. Repeat. ⚡",
+
+  funFact: () => {
+    return "Built an AI doctor in 42hrs 🏥";
+  }
+};
 ```
 
-<br clear="right"/>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-## 🏆 &nbsp;Achievements
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-| 🥇 | Achievement | Details |
-|:---:|:---|:---|
-| 🏆 | **1st Place — Periscope Digital Healthcare Hackathon** | Built AgentFoundry — AI doctor in 7 Indian languages in 42 hrs |
-| 📜 | **CS50x Certified** | Harvard University via edX — All 10 modules completed |
-| ⭐ | **CGPA 9.48** | Semester 2 — K. J. Somaiya School of Engineering |
-| 🚀 | **6 Production Projects** | Shipped across full-stack, desktop, IoT & AI domains |
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-## 🛠️ &nbsp;Tech Stack
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-**Frontend & Frameworks**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Databases**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-## 🚀 &nbsp;Featured Projects
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<!-- Row 1 -->
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🏆 AgentFoundry
-**AI Doctor for Indian Languages**
-
-> *1st Place — Periscope Healthcare Hackathon*
-
-An AI-powered multilingual diagnostic system that analyzes X-rays, generates structured diagnoses, and speaks back in **7 Indian languages** — built in 42 hours.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![AI/ML](https://img.shields.io/badge/-AI%2FML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-✦ 7-language voice synthesis &nbsp;✦ Live reasoning pipeline  
-✦ X-ray image analysis &nbsp;✦ Sub-1s language switching
-
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top" align="center">
 
-### ⚡ Outlier
-**High-Performance Productivity OS**
+<img src="https://github-readme-stats.vercel.app/api?username=SujalThakkar&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=7c3aed&icon_color=a855f7&text_color=e2e8f0&ring_color=7c3aed&include_all_commits=true&count_private=true" width="100%"/>
 
-> *Next.js · TypeScript · Prisma · Tailwind*
+<br/>
 
-A dark, gamified productivity system with habits, focus sessions, skill tracking, and a real-time vitality score. Progress from **Novice → Outlier** based on consistency.
-
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-✦ 7 integrated modules &nbsp;✦ Gamified rank system  
-✦ Mastery Mode timer &nbsp;✦ Real-time analytics
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalThakkar&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=7c3aed&text_color=e2e8f0&langs_count=6" width="100%"/>
 
 </td>
 </tr>
+</table>
 
+---
+
+<!-- ████████████████████████████████████████████████████████████████████ -->
+<!--                    ◈  ACHIEVEMENT VAULT  ◈                          -->
+<!-- ████████████████████████████████████████████████████████████████████ -->
+
+## 🏛️ &nbsp;Achievement Vault
+
+<div align="center">
+
+<table>
 <tr>
-<td width="50%" valign="top">
-
-### 🛒 RetailPulse
-**Retail Sales Analytics Platform**
-
-> *Flask · MySQL · Chart.js · Bootstrap 5*
-
-Full-stack retail management with inventory, billing, and analytics. Features **Weighted Average Cost** algorithm, OCR invoice scanning, and role-based access control.
-
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white)
-
-✦ 99%+ profit accuracy &nbsp;✦ OCR invoice scanning  
-✦ Role-based access &nbsp;✦ Real-time dashboard
-
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🏆-1ST_PLACE-FFD700?style=for-the-badge&labelColor=1a1a2e" /><br/>
+<sub><b>Periscope Healthcare Hackathon</b></sub><br/>
+<sub>AgentFoundry · 42 Hours · 7 Languages</sub>
 </td>
-<td width="50%" valign="top">
-
-### 🌍 ImpactBridge
-**NGO–Volunteer Management Platform**
-
-> *Next.js · React · PostgreSQL*
-
-A two-sided marketplace connecting verified NGOs with volunteers — featuring QR-based attendance, automated certificates, and smart re-engagement notifications.
-
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-✦ QR attendance system &nbsp;✦ Auto-certification  
-✦ Smart notifications &nbsp;✦ NGO verification flow
-
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/📜-CS50x-CC0000?style=for-the-badge&labelColor=1a1a2e&logo=harvard" /><br/>
+<sub><b>Harvard University (edX)</b></sub><br/>
+<sub>All 10 Modules Completed · 2024</sub>
 </td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🔗 ConnectSphere
-**Social Contact Recommendation System**
-
-> *Java · Swing · SQLite · JDBC*
-
-Applies **Graph Theory & Set Theory** from Discrete Mathematics to power a mutual-friend recommendation engine with O(V+E) traversal efficiency.
-
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-
-✦ Graph-based recommendations &nbsp;✦ DAO architecture  
-✦ 40% reduced coupling &nbsp;✦ Multi-profile support
-
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/⭐-CGPA_9.48-00C851?style=for-the-badge&labelColor=1a1a2e" /><br/>
+<sub><b>Academic Excellence</b></sub><br/>
+<sub>Semester 2 · K.J. Somaiya SoE</sub>
 </td>
-<td width="50%" valign="top">
-
-### 📋 Trackfolio
-**Skill & Certificate Tracker**
-
-> *Java 17 · Swing · SQLite · Java2D*
-
-Desktop productivity app for tracking professional skills, uploading certificates, and sharing a public portfolio — with visual progress graphs built using Java2D.
-
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-
-✦ 10+ skill tracking &nbsp;✦ Certificate uploads  
-✦ Progress visualization &nbsp;✦ Public portfolio view
-
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🚀-6_PROJECTS-7c3aed?style=for-the-badge&labelColor=1a1a2e" /><br/>
+<sub><b>Production Shipped</b></sub><br/>
+<sub>AI · Web · Desktop · IoT</sub>
 </td>
 </tr>
 </table>
@@ -228,72 +131,340 @@ Desktop productivity app for tracking professional skills, uploading certificate
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-## 📊 &nbsp;GitHub Stats
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ████████████████████████████████████████████████████████████████████ -->
+<!--                      ◈  ARSENAL  ◈                                   -->
+<!-- ████████████████████████████████████████████████████████████████████ -->
+
+## ⚔️ &nbsp;Arsenal
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SujalThakkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalThakkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8"/>
+### ◆ &nbsp;Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,cpp,c&theme=dark&perline=6" />
+</p>
 
-<br/><br/>
+### ◆ &nbsp;Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,bootstrap&theme=dark&perline=6" />
+</p>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=SujalThakkar&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa"/>
+### ◆ &nbsp;Backend & Data
+<p>
+<img src="https://skillicons.dev/icons?i=flask,prisma,mysql,sqlite,postgres,sqlite&theme=dark&perline=6" />
+</p>
 
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SujalThakkar&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true"/>
+### ◆ &nbsp;Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,arduino,linux&theme=dark&perline=6" />
+</p>
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ████████████████████████████████████████████████████████████████████ -->
+<!--                    ◈  PROJECT DOSSIER  ◈                            -->
+<!-- ████████████████████████████████████████████████████████████████████ -->
+
+## 🗂️ &nbsp;Project Dossier
+
+<!-- ╔══════════ PROJECT 01 ══════════╗ -->
+
+<details open>
+<summary><b>&nbsp;◈ &nbsp;AgentFoundry &nbsp;—&nbsp; AI Doctor for India &nbsp;🏆 1ST PLACE</b></summary>
+<br/>
+
+> *Built in 42 hours. Won 1st place. Speaks 7 languages. Analyzes X-rays.*
+
+<table>
+<tr>
+<td width="60%">
+
+**What it does:**
+An AI-powered multilingual healthcare diagnostic system that speaks to patients in their native Indian language — Hindi, Gujarati, Tamil, and 4 others. It analyzes medical X-rays, generates structured diagnoses, and delivers voice-based results in real time.
+
+**My Contribution:**
+- 🎨 Designed the entire frontend UI with multi-language UX
+- ⚡ Built live reasoning pipeline with animated avatars
+- 🌐 Implemented 7-language contextual translation system
+- 🎤 Integrated voice input + language-switch under 1 second
+
+</td>
+<td width="40%" align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+```
+🏆 1st Place
+👥 4-Member Team
+⏱️ 42-Hour Sprint
+🌍 7 Languages
+🔬 X-Ray Analysis
+🎤 Voice Synthesis
+```
+
+</td>
+</tr>
+</table>
+
+</details>
+
+---
+
+<!-- ╔══════════ PROJECT 02 ══════════╗ -->
+
+<details open>
+<summary><b>&nbsp;◈ &nbsp;Outlier &nbsp;—&nbsp; Productivity Operating System &nbsp;⚡ FLAGSHIP</b></summary>
+<br/>
+
+> *A dark, gamified productivity system. Built for operators who take their craft seriously.*
+
+<table>
+<tr>
+<td width="60%">
+
+**What it does:**
+7 unified modules — habits, deep-focus timers, skill tracking, task pipelines, self-care, vitality scoring, and reputation ranks. Progress from **Novice → Emerging → Disciplined → Elite → Outlier** based purely on consistency.
+
+**Technical Highlights:**
+- 🏗️ Next.js App Router + TypeScript + Tailwind CSS v4
+- 🔐 Anonymous auth via JSON Web Token (no email needed)
+- 📊 Recharts dashboard with focus density & timeline charts
+- 🗄️ Prisma ORM + SQLite with full migration history
+- 🔒 Mastery Mode — navigation-locked deep focus sessions
+
+</td>
+<td width="40%" align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+```
+⚡ 7 Integrated Modules
+🏅 5-Tier Rank System
+🔒 Mastery Mode Timer
+📈 Real-Time Analytics
+🎯 XP + Vitality Engine
+🔐 Privacy-First Auth
+```
+
+</td>
+</tr>
+</table>
+
+</details>
+
+---
+
+<!-- ╔══════════ PROJECT 03 ══════════╗ -->
+
+<details>
+<summary><b>&nbsp;◈ &nbsp;RetailPulse &nbsp;—&nbsp; Retail Analytics Engine &nbsp;🛒</b></summary>
+<br/>
+
+> *Full-stack retail management. Inventory + billing + analytics. Built from scratch.*
+
+**Stack:** Flask · MySQL · Bootstrap 5 · Chart.js · SQLAlchemy · OCR
+
+**Key Features:** Weighted Average Cost algorithm (99%+ profit accuracy) · Historical price locking · Role-based access control (Owner/Employee) · Optical character recognition invoice scanning · Real-time Chart.js dashboard
+
+</details>
+
+---
+
+<!-- ╔══════════ PROJECT 04 ══════════╗ -->
+
+<details>
+<summary><b>&nbsp;◈ &nbsp;ImpactBridge &nbsp;—&nbsp; NGO–Volunteer Marketplace &nbsp;🌍</b></summary>
+<br/>
+
+> *Two-sided platform connecting verified NGOs with volunteers.*
+
+**Stack:** Next.js · React · TypeScript · PostgreSQL
+
+**Key Features:** QR-based attendance validation · Automated digital certification · Smart re-engagement notifications · Role-based access (NGO / Volunteer) · NGO verification flow
+
+</details>
+
+---
+
+<!-- ╔══════════ PROJECT 05 ══════════╗ -->
+
+<details>
+<summary><b>&nbsp;◈ &nbsp;ConnectSphere &nbsp;—&nbsp; Graph-Based Recommendation Engine &nbsp;🔗</b></summary>
+<br/>
+
+> *Discrete Mathematics brought to life — Graph Theory powering social connections.*
+
+**Stack:** Java · Swing · SQLite · JDBC
+
+**Key Features:** Mutual-friend recommendations via graph traversal · Data Access Object architecture (40% reduced coupling) · 3+ simultaneous user profile support
+
+</details>
+
+---
+
+<!-- ╔══════════ PROJECT 06 ══════════╗ -->
+
+<details>
+<summary><b>&nbsp;◈ &nbsp;Trackfolio &nbsp;—&nbsp; Skill & Certificate Tracker &nbsp;📋</b></summary>
+<br/>
+
+> *Your professional growth, visualized.*
+
+**Stack:** Java 17 · Swing · SQLite · Java2D
+
+**Key Features:** 10+ skill tracking with ratings · Certificate uploads (JPG/PNG) · Java2D progress visualization · Shareable public portfolio (80% faster than manual formatting)
+
+</details>
+
+---
+
+<!-- ████████████████████████████████████████████████████████████████████ -->
+<!--                    ◈  STATS COMMAND CENTER  ◈                       -->
+<!-- ████████████████████████████████████████████████████████████████████ -->
+
+## 📡 &nbsp;Stats Command Center
+
+<div align="center">
+
+<img width="49%" src="https://streak-stats.demolab.com?user=SujalThakkar&theme=midnight-purple&hide_border=true&background=0d0221&ring=7c3aed&fire=a855f7&currStreakLabel=7c3aed&sideLabels=e2e8f0&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=SujalThakkar&theme=midnight-purple&hide_border=true&bg_color=0d0221&title_color=7c3aed&text_color=e2e8f0&layout=compact" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SujalThakkar&bg_color=0d0221&color=a855f7&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&radius=8" />
+
+<br/><br/>
+
+<!-- Trophy cabinet -->
+<img src="https://github-profile-trophy.vercel.app/?username=SujalThakkar&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%"/>
+
+</div>
+
+---
+
+<!-- ████████████████████████████████████████████████████████████████████ -->
+<!--                    ◈  CONTRIBUTION SNAKE  ◈                         -->
+<!-- ████████████████████████████████████████████████████████████████████ -->
+
+## 🐍 &nbsp;Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SujalThakkar/SujalThakkar/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SujalThakkar/SujalThakkar/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SujalThakkar/SujalThakkar/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
+<!-- ████████████████████████████████████████████████████████████████████ -->
+<!--                    ◈  EDUCATION TIMELINE  ◈                         -->
+<!-- ████████████████████████████████████████████████████████████████████ -->
+
 ## 🎓 &nbsp;Education & Certifications
-<!-- ══════════════════════════════════════════════════════════════════ -->
+
+```
+                    ACADEMIC TIMELINE
+    ─────────────────────────────────────────────────────────
+
+    2024 ──┬── B.Tech · CS & Business Systems
+           │   K. J. Somaiya School of Engineering, Mumbai
+           │   CGPA: 9.27 Cumulative  │  Sem 2: 9.48 ⭐
+           │
+    2024 ──┴── CS50x · Introduction to Computer Science
+               Harvard University via edX
+               Scratch · C · Python · SQL · Flask · DSA
+
+    ─────────────────────────────────────────────────────────
+    RELEVANT:  DSA · OOP · Discrete Mathematics
+               Database Management · Computer Networks
+```
+
+---
+
+<!-- ████████████████████████████████████████████████████████████████████ -->
+<!--                    ◈  OPERATING METRICS  ◈                          -->
+<!-- ████████████████████████████████████████████████████████████████████ -->
+
+## 📊 &nbsp;Operating Metrics
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  🎓  B.Tech — Computer Science & Business Systems               │
-│      K. J. Somaiya School of Engineering, Mumbai                │
-│      2024 – 2028  │  CGPA: 9.27 Cumulative                     │
-├─────────────────────────────────────────────────────────────────┤
-│  📜  CS50x — Introduction to Computer Science                   │
-│      Harvard University via edX  │  Completed 2024             │
-│      Scratch · C · Python · SQL · Flask · DSA · Algorithms      │
-└─────────────────────────────────────────────────────────────────┘
-```
+| Metric | Value | Notes |
+|:---|:---:|:---|
+| 🏆 Hackathons Won | **1/1** | 100% win rate — Periscope Healthcare |
+| 🚀 Projects Shipped | **6** | Full-stack · AI · Desktop · IoT |
+| ⭐ Peak CGPA | **9.48** | Semester 2 |
+| 🌍 Languages Built | **7** | AgentFoundry multilingual system |
+| ⏱️ Fastest Delivery | **42 hrs** | Production AI system, end-to-end |
+| 🧩 DSA Problems | **15+** | Lab assignments, top scores |
+| 📜 Certifications | **1** | Harvard CS50x |
+| ☕ Coffee → Code | **∞** | No upper bound detected |
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-## 🤝 &nbsp;Connect With Me
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ████████████████████████████████████████████████████████████████████ -->
+<!--                      ◈  CONNECT  ◈                                  -->
+<!-- ████████████████████████████████████████████████████████████████████ -->
+
+## 🛰️ &nbsp;Open Channels
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujalthakkar)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SujalThakkar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujal.ht@somaiya.edu)
 
 <br/>
 
-*Open to internships, collabs, and interesting problems. Reach out anytime.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/sujalthakkar)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:sujal.ht@somaiya.edu)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/SujalThakkar)
+
+<br/><br/>
+
+```
+  ┌─────────────────────────────────────────────────────────────┐
+  │                                                             │
+  │   Open to: Internships · Collabs · Interesting Problems     │
+  │   Response time: < 24 hours                                 │
+  │   Status: 🟢 Available                                      │
+  │                                                             │
+  └─────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
+<!-- ░░░░░░░░░░░░░░░░░░  FOOTER  ░░░░░░░░░░░░░░░░░░ -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=a78bfa&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1e0a4a,100:000000&height=150&section=footer&text=Built%20different.%20Shipped%20for%20real.&fontSize=22&fontColor=a855f7&fontAlignY=62&animation=fadeIn" width="100%"/>
 
-<sub>⚡ Built with passion from Thane, Maharashtra 🇮🇳</sub>
+<br/>
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
+
+<br/>
+
+<sub>⚡ Crafted from Thane, Maharashtra 🇮🇳 &nbsp;·&nbsp; Last updated: 2025 &nbsp;·&nbsp; Always building</sub>
 
 </div>
+
+<!-- ╔══════════════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    END OF README — SUJAL THAKKAR                          ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════════════╝ -->
