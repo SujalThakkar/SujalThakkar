@@ -91,7 +91,11 @@ Desktop skill and certificate tracker
 📈 Contribution Graph
 <p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SujalThakkar&theme=tokyo-night&hide_border=true"/> </p>
 🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/SujalThakkar/SujalThakkar/output/github-contribution-grid-snake.svg"/> </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SujalThakkar/SujalThakkar/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SujalThakkar/SujalThakkar/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/SujalThakkar/SujalThakkar/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 🎓 Education
 
 B.Tech — Computer Science & Business Systems
