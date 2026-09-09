@@ -1,42 +1,49 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:9333EA,100:06B6D4&height=200&section=header&text=Sujal%20Thakkar&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,50:6D28D9,100:FF6E96&height=210&section=header&text=Sujal%20Thakkar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Full+Stack+Developer;Hackathon+Winner;Building+Projects+and+Learning+Everyday"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=1200&color=FF6E96&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Full+Stack+Developer;Hackathon+Winner;Building+Projects+and+Learning+Everyday"/>
 
-<a href="mailto:sujal.ht@somaiya.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/sujal-thakkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=SujalThakkar&style=flat-square&color=8B5CF6&label=Profile+Views"/>
+<br>
+
+<a href="mailto:sujal.ht@somaiya.edu"><img src="https://img.shields.io/badge/Email-141321?style=for-the-badge&logo=gmail&logoColor=FF6E96"/></a>
+<a href="https://linkedin.com/in/sujal-thakkar"><img src="https://img.shields.io/badge/LinkedIn-141321?style=for-the-badge&logo=linkedin&logoColor=FF6E96"/></a>
+<img src="https://komarev.com/ghpvc/?username=SujalThakkar&style=for-the-badge&color=141321&label=Profile+Views"/>
 
 </div>
 
 <br>
 
-## About Me
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" alt="divider"/>
+
+## ⋆ About Me
 
 I'm a Computer Science & Business Systems student at KJ Somaiya School of Engineering, building full-stack platforms and desktop systems. Currently working on **Outlier**, a gamified productivity OS, and open to Software Engineering internships.
 
-- 🏆 Winner — Periscope Healthcare Hackathon 2025
-- 💻 Build full-stack platforms and desktop systems
-- 🚀 Currently building **Outlier** — Gamified Productivity OS
-- 💼 Open to Software Engineering internships
-- 📍 Thane, Maharashtra, India
+```yaml
+🏆 achievement: Winner, Periscope Healthcare Hackathon 2025
+🚀 building: Outlier — Gamified Productivity OS
+💼 status: Open to Software Engineering internships
+📍 location: Thane, Maharashtra, India
+```
 
-<br>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" alt="divider"/>
 
-## Tech Stack
+## ⋆ Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,c,cpp&theme=dark"/><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flask,prisma&theme=dark"/><br>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,c,cpp&theme=dark"/>
+<br><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flask,prisma&theme=dark"/>
+<br><br>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,docker,vscode&theme=dark"/>
 </p>
 
-<br>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" alt="divider"/>
 
-## Featured Projects
+## ⋆ Featured Projects
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
@@ -98,42 +105,44 @@ Desktop skill and certificate tracker
 </tr>
 </table>
 
-<br>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" alt="divider"/>
 
-## GitHub Analytics
+## ⋆ GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sujalthakkar&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalthakkar&layout=compact&hide_border=true&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sujalthakkar&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true&bg_color=141321"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalthakkar&layout=compact&hide_border=true&theme=radical&bg_color=141321"/>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=sujalthakkar&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://streak-stats.demolab.com?user=sujalthakkar&theme=radical&hide_border=true&count_private=true&background=141321"/>
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sujalthakkar&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sujalthakkar&theme=radical&no-frame=true&margin-w=15&row=1&column=7"/>
 
 <br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sujalthakkar&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sujalthakkar&theme=radical&hide_border=true&bg_color=141321&color=FF6E96&line=FF6E96&point=ffffff"/>
 
 </div>
 
-<br>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" alt="divider"/>
 
-## Contribution Snake
+## ⋆ Contribution Snake
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SujalThakkar/SujalThakkar/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SujalThakkar/SujalThakkar/output/github-contribution-grid-snake.svg"/>
   <img src="https://raw.githubusercontent.com/SujalThakkar/SujalThakkar/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
+</div>
 
-<br><br>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" alt="divider"/>
 
-## Education
+## ⋆ Education
 
 **B.Tech — Computer Science & Business Systems**
 KJ Somaiya School of Engineering · 2024 – 2028 · CGPA 9.27
@@ -146,6 +155,6 @@ KJ Somaiya School of Engineering · 2024 – 2028 · CGPA 9.27
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:9333EA,100:06B6D4&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,50:6D28D9,100:FF6E96&height=120&section=footer"/>
 
 </div>
