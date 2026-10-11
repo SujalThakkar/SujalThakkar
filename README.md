@@ -22,7 +22,6 @@ I'm a Computer Science & Business Systems student at KJ Somaiya School of Engine
 
 ```yaml
 🏆 achievement: Winner, Periscope Healthcare Hackathon 2025
-🚀 building: Outlier — Gamified Productivity OS
 💼 status: Open to Software Engineering internships
 📍 location: Thane, Maharashtra, India
 ```
